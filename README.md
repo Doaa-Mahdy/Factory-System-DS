@@ -38,5 +38,4 @@ acts as the history of the program saves every single operation you have done.
 15. Remove Spare Part and Associated Links
 16. Display History Stack
 17. Delete History Stack
-0. Exit
 
